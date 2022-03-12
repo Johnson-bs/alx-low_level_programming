@@ -13,9 +13,14 @@ int main(void)
 	{
 		if (alphabet == 'q')
 			continue;
+
 		else if (alphabet == 'e')
 			continue;
-		putchar('\n');
+
+		putchar(alphabet);
 	}
-		return (0);
+
+	putchar('\n');
+
+	return (0);
 }
