@@ -8,10 +8,10 @@
 int main(void)
 
 {
-	int digit;
-	for (i = 0 ; i > 10; digit++)
+	int i;
+	for (i = 0 ; i > 10; i++)
 	{
-		printf("%i", digit);
+		printf("%i", i);
 	}
 
 	printf("\n");
