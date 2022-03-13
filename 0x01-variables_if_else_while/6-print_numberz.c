@@ -4,8 +4,8 @@
  *
  * Return: Always 0 (Success/correct)
  */
-
 int main(void)
+
 {
 	int i;
 
@@ -16,5 +16,5 @@ int main(void)
 
 	putchar ('\n');
 
-	return (0)
+	return (0);
 }
