@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * puts2 - prints every character of a string
- * @s: A pointer to an int that will be changed
+ * @str: A pointer to an int that will be changed
  * Return: void
  */
 
