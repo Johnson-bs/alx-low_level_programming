@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_array - prints n elements of an array of integers
- * A pointer to an int that will be changed
+ * @a: A pointer to an int that will be changed
  * @n: return value n
  * Return: void
  */
