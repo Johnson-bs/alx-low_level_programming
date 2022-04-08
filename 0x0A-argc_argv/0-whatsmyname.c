@@ -2,9 +2,9 @@
 #include "main.h"
 /**
  * main - Print the name  of the program
- * @argc - count argument
- * @argv - arguments vector or value
- * Return : Always 0 (Success)
+ * @argc: - count argument
+ * @argv: - arguments vector or value
+ * Return: Always 0 (Success)
  */
 int main(int argc, char *argv[])
 {
