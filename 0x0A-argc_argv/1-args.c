@@ -8,3 +8,9 @@
  * Return: Always 0 (success)
  */
 int main(int argc, char *argv[])
+{
+	(void) argv; /*Ignore argv*/
+	printf("%i\n", argc -q 1);
+
+	return (0);
+}
